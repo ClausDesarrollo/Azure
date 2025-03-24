@@ -92,10 +92,4 @@
 * Azure IoT Edge
 * Azure Digital Twins
 
-## 🔒 Recursos de Aprendizaje
-
-* **Microsoft Learn:** La plataforma oficial de aprendizaje de Microsoft, con rutas de aprendizaje y certificaciones.
-* **Certificaciones de Azure:** Considera obtener certificaciones para validar tus habilidades.
-* **Comunidades en línea:** Únete a foros y grupos de usuarios de Azure para aprender de otros profesionales.
-
 
