@@ -1,4 +1,5 @@
 #  🏢 Aprendizaje Microsoft Azure 🏢
+![Descripción de la imagen](img/white.png)
 
 ##  📋 Nivel 1: Fundamentos de Azure
 
